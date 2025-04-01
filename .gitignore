@@ -1,5 +1,6 @@
 *.pptx
 *.pdf
+*.csv
 1-enderecos.sql
 2-clientes.sql
 3-proprietarios.sql
@@ -9,3 +10,5 @@
 7-consultas.sql
 0-criacao_banco.sql
 4-hospedagens.sql
+0-criacao_bando.sql
+8-regioes_geograficas.sql
